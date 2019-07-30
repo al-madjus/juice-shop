@@ -4,7 +4,10 @@ from string import ascii_letters, digits
 import sys
 
 # Emails extracted from the web page
-emails = ['admin@juice-sh.op','jim@juice-sh.op','bender@juice-sh.op','bjoern.kimminich@googlemail.com','ciso@juice-sh.op','support@juice-sh.op','morty@juice-sh.op','mc.safesearch@juice-sh.op','J12934@juice-sh.op','wurstbrot@juice-sh.op','amy@juice-sh.op','bjoern@juice-sh.op','bjoern@owasp.org']
+emails = ['admin@juice-sh.op','jim@juice-sh.op','bender@juice-sh.op','bjoern.kimminich@googlemail.com',
+          'ciso@juice-sh.op','support@juice-sh.op','morty@juice-sh.op','mc.safesearch@juice-sh.op',
+          'J12934@juice-sh.op','wurstbrot@juice-sh.op','amy@juice-sh.op','bjoern@juice-sh.op',
+          'bjoern@owasp.org']
 
 # URL of the web page
 url = '' # <-- INSERT URL OF YOUR JUICE SHOP HERE!
